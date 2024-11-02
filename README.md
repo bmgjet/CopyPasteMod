@@ -1,4 +1,5 @@
 Add Upload Command - "uploadpaste url saved-paste-name"<br>
+Add Give Ownership Command - "givebase steamid"<br>
 Add Copy all entities<br>
 Remove debug spam<br>
 Output message on copy<br>
