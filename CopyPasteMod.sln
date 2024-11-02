@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyPasteMod", "CopyPasteMod\CopyPasteMod.csproj", "{3664FEE7-F1FF-409A-83A7-CA2E5318670A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3664FEE7-F1FF-409A-83A7-CA2E5318670A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3664FEE7-F1FF-409A-83A7-CA2E5318670A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3664FEE7-F1FF-409A-83A7-CA2E5318670A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3664FEE7-F1FF-409A-83A7-CA2E5318670A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD88802-F52B-43FD-ACF6-B8CFCE4ADD5A}
+	EndGlobalSection
+EndGlobal
